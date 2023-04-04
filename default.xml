@@ -23,7 +23,7 @@
   <project path="tools/mkbootimg" name="platform/system/tools/mkbootimg" />
   <project path="tools/libufdt" name="platform/system/libufdt" revision="master" remote="aosp" />
 
-  <project path="prebuilts/clang/host/linux-x84/clang-hana" name="EndCredits/clang-crepuscular" remote="gitlab" clone-depth="1" />
+  <project path="prebuilts/clang/host/linux-x84/clang-hana" name="EndCredits/clang-crepuscular" remote="gitlab" clone-depth="1" revision="main" />
 
   <project path="kernel/msm-5.4" name="EndCredits/android_kernel_xiaomi_sm8350" revision="thirteen" remote="github" />
 </manifest>
